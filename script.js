@@ -101,7 +101,7 @@ btnHold.addEventListener('click', function() {
             switchPlayer();
         }
 
-        // Switch to the next player
+        // Switch to the next playerr
         switchPlayer();
     }
 
